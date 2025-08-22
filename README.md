@@ -44,18 +44,23 @@ It leverages the power of **Spring Boot** on the backend and **Angular** on the 
 
 ---
 
-## 📸 Screenshots  
-
-*(Add screenshots of your app here for better presentation)*  
+## 📸 Screenshots    
 
 <img width="938" height="769" alt="image" src="https://github.com/user-attachments/assets/b4db37c5-d130-4f1b-a38a-d35b260a3d73" />
+
+----------------------------------------------------------------
  
 <img width="1903" height="910" alt="image" src="https://github.com/user-attachments/assets/3dfdf809-ec28-455c-b239-15ed4aef0af6" />
 
+--------------------------------------------------------------
+
 <img width="1897" height="916" alt="image" src="https://github.com/user-attachments/assets/42329e16-496b-4c0a-aac0-2c2508e351ad" />
+
+--------------------------------------------------------------
 
 <img width="1904" height="904" alt="image" src="https://github.com/user-attachments/assets/feaf6a92-2e5a-4279-a3ae-bebeb6fcb7e1" />
 
+------------------------------------------------------------
 
 ## 🧑‍💻 Usage  
 
